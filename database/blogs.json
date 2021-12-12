@@ -1,0 +1,32 @@
+{
+    "blogs": [
+        {
+            "title": "Blog 1",
+            "body": "No blog",
+            "id": 1
+        },
+        {
+            "title": "Blog 2",
+            "body": "Blog 2",
+            "id": 2
+        },
+        {
+            "title": "Blog 3",
+            "body": "Blog 3",
+            "id": 3
+        }
+    ],
+
+    "works": [
+        {
+            "title": "Work 1",
+            "body": "Work body",
+            "id": "1"
+        },
+        {
+            "title": "Work 2",
+            "body": "Work body",
+            "id": "2"
+        }
+    ]
+}
